@@ -1,6 +1,2 @@
-﻿  MyForm.cpp
-C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\MyForm.h(595,21): warning C4101: 'e': unreferenced local variable
-C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\MyForm.h(762,20): warning C4101: 'ex': unreferenced local variable
-C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  LoginApplication.vcxproj -> C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\x64\Debug\LoginApplication.exe
+﻿  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LoginApplication.vcxproj -> C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\LoginApplication\x64\Debug\LoginApplication.exe

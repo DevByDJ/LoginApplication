@@ -2,3 +2,7 @@ C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 300
 C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\x64\Debug\LoginApplication.vcxproj.SuggestedBindingRedirects.cache
 C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\x64\Debug\LoginApplication.MyForm.resources
 C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\C-Plus-Plus-Projects\COP 3003\LoginApplication\LoginApplication\x64\Debug\LoginApplication.vcxproj.GenerateResource.cache
+C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\LoginApplication\LoginApplication\x64\Debug\LoginApplication.vcxproj.AssemblyReference.cache
+C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\LoginApplication\LoginApplication\x64\Debug\LoginApplication.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\LoginApplication\LoginApplication\x64\Debug\LoginApplication.MyForm.resources
+C:\Users\Dmast\AppData\Local\GitHubDesktop\Projects\LoginApplication\LoginApplication\x64\Debug\LoginApplication.vcxproj.GenerateResource.cache
